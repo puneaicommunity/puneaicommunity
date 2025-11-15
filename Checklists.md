@@ -1,4 +1,4 @@
-# PAIC — Checklists (concise)
+# PAIC — Checklists (TBD, need a review)
 
 ## Social posting process
 
@@ -9,7 +9,7 @@
   * LinkedIn repost by **Yogesh**
   * WhatsApp broadcast by **Anjali**
   * Medium by **Yogesh**
-  * Instagram by **Reeya**
+  * Instagram by **Deeya**
   * X by **Deeya**
 
 ---
@@ -153,4 +153,5 @@ Post:
 * Always log approvals & roles in shared calendar + Luma + internal tracker.
 * Use PAIC branding on all public materials.
 * Update repo `/events/` after every event (presentations, recordings, recap).
+
 

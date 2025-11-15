@@ -9,8 +9,8 @@
 * **Mission:** Democratize AI knowledge via community events, projects, and mentoring.
 
 ## What we do
-* Online seminars — **LetsAI** (LOSS): short, accessible talks.
-* Hands-on in-person workshops — **Zero2Hero** (ZOWS): practical training, quizzes, giveaways.
+* Online seminars: **LetsAI** (LOSS): short, accessible talks.
+* Hands-on in-person workshops: **Zero2Hero** (ZOWS): practical training, quizzes, giveaways.
 * Showcases for startups, job/hiring posts, and campus collaborations.
 * Partner programs with institutions, local tech communities & sponsors.
 
@@ -71,22 +71,19 @@
 -->
 
 ## Be a Community Partner
-* Requirements:
-  * Open event to public
-  * Include PAIC logo on website/banner and tag PAIC on promos
-  * Agree to cross-promotion (we will post on all PAIC handles)
-* Process:
-  1. Request partnership via email/Issue with event details.
-  2. Sign brief community partnership engagement.
-  3. Provide sponsor/promotional assets and access to event page for PAIC posting.
+* Requirement: Open event to public
+* Include PAIC logo on website/banner and tag PAIC on promos
+* Agree to cross-promotion (we will post on all PAIC handles)
+* Provide sponsor/promotional assets and access to event page for PAIC posting.
 * Benefits: mutual promo, speaker exchange, partner slots.
 
+<!--
 ## Event types & pricing (TL;DR)
 * **LetsAI (LOSS)** — online seminars; free/low cost (₹100 for hybrid ticketing model for recorded access).
 * **Zero2Hero (ZOWS)** — offline workshops (4–8 hrs); charged when required. Includes snacks.
 * **Hybrid / Showcases** — follow hybrid checklist.
 
-<!--
+
 **puneaicommunity/puneaicommunity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

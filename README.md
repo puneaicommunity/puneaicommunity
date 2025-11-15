@@ -5,10 +5,8 @@
 ![Pune_AI_Community_Logo](./Pune_AI_Community_Logo_colored_website.png)
 
 ## Vision & Mission
-
-* **Vision:** Make Pune a global AI hub — diverse, practical, and impactful.
+* **Vision:** Make Pune a global AI hub, diverse, practical, and impactful.
 * **Mission:** Democratize AI knowledge via community events, projects, and mentoring.
-
 
 ## What we do
 * Online seminars — **LetsAI** (LOSS): short, accessible talks.
@@ -17,7 +15,6 @@
 * Partner programs with institutions, local tech communities & sponsors.
 
 ## Quick links & accounts (primary contacts)
-
 * Website: puneaicommunity.org
 * LinkedIn page: https://www.linkedin.com/company/pune-ai-community
 * Email: puneaicommunity@gmail.com
@@ -31,7 +28,6 @@
 
 <!-- 
 ## Code of Conduct & Legal
-
 * **Code of Conduct:** All events follow PAIC CoC — respectful, harassment-free. Report CoC violations to `puneaicommunity@gmail.com`.
 * **Speaker release & consent forms** stored in `/legal/`.
 * **License:** Content in this repo is `CC-BY-SA` unless stated otherwise. Check `/LICENSE` for details.
@@ -56,7 +52,6 @@
 * Dry run required for online talks; formal attire recommended for offline showcases.
 * Recording rights: specified in the Speaker Packet.
 
-
 ## How to be a volunteer
 * Roles: registration, timekeeper, photo/video, tech support, promo, host/moderator.
 * Apply: email `puneaicommunity@gmail.com` or open Issue `volunteer-<role>`.
@@ -73,11 +68,9 @@
 * **Process:** Email `puneaicommunity@gmail.com` with package interest. Provide logo and required copy.
 * **Revenue split for ZOWS:** default: 2/3 ticket profits to the speaker, remainder to PAIC (negotiable by agreement).
 * Signed Sponsor Agreement and invoice required before event.
-
 -->
 
 ## Be a Community Partner
-
 * Requirements:
   * Open event to public
   * Include PAIC logo on website/banner and tag PAIC on promos
@@ -92,7 +85,6 @@
 * **LetsAI (LOSS)** — online seminars; free/low cost (₹100 for hybrid ticketing model for recorded access).
 * **Zero2Hero (ZOWS)** — offline workshops (4–8 hrs); charged when required. Includes snacks.
 * **Hybrid / Showcases** — follow hybrid checklist.
-
 
 <!--
 **puneaicommunity/puneaicommunity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

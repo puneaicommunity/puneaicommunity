@@ -2,7 +2,7 @@
 
 **Artificial Intelligence — from classes to masses**
 
-![Pune_AI_Community_Logo](Pune_AI_Community_Logo_colored_website)
+![Pune_AI_Community_Logo](./Pune_AI_Community_Logo_colored_website.png)
 
 ## Vision & Mission
 

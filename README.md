@@ -11,6 +11,7 @@
 ## What we do
 * Online seminars: **LetsAI** (LOSS): short, accessible talks.
 * Hands-on in-person workshops: **Zero2Hero** (ZOWS): practical training, quizzes, giveaways.
+* Tentative Program List [here](./PAIC_ProgramList_2026.md)
 * Showcases for startups, job/hiring posts, and campus collaborations.
 * Partner programs with institutions, local tech communities & sponsors.
 

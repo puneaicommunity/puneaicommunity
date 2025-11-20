@@ -8,6 +8,10 @@
 * **Vision:** Make Pune a global AI hub, diverse, practical, and impactful.
 * **Mission:** Democratize AI knowledge via community events, projects, and mentoring.
 
+जे जे आपणासि ठावे। ते ते इतरांसि शिकवावे। शहाणे करून सोडावे सकळ जन।। - श्री समर्थ रामदासस्वामी 
+
+(What is known to you, teach that to others. Make all people wise.)
+
 ## What we do
 * Online seminars: **LetsAI** (LOSS): short, accessible talks.
 * Hands-on in-person workshops: **Zero2Hero** (ZOWS): practical training, quizzes, giveaways.
